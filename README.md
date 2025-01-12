@@ -1,6 +1,7 @@
+
+
 <h1 align="center">What's up? 🙌, I'm Jaime</h1>
 <h3 align="center">An eager newcomer to the world of programming</h3>
-![IMG_3048](https://github.com/user-attachments/assets/4180f077-ac7a-4c88-a438-4d17889ce4f6)
 
 - 🎓 First year **software engineering student** at **INTELI**
 
