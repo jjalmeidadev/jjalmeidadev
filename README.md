@@ -1,20 +1,18 @@
 <h1 align="center">What's up? 🙌, I'm Jaime</h1>
 <h3 align="center">An eager newcomer to the world of programming</h3>
 
-- 🎓 First year software engineering student at INTELI
+- 🎓 First year **software engineering student** at **INTELI**
 
 - 🌱 I’m currently learning **JS, Excel and SQL**
 
-- 🤝 I’m looking for help with **learning the guitar**
-
 - 💬 Ask me about **comics/manga, games, music, cinema, art, mythologies, philosophy, anime, technologies and such.**
 
-- 📫 How to reach me **jaime.v.jaime@gmail.com**
-
-- 📄 Know about my experiences [on working on the ''We4Nós'' education program as an english teacher and participating on ''Colégio Dante Alighieri's''2023 innovation symposium and 2024 UN debate event.
+- 📄 Know about my experiences on **working on the ''We4Nós'' education program as an english teacher and participating on ''Colégio Dante Alighieri's'' 2023 innovation symposium and 2024 UN debate event.**
 
 - ⚡ Fun fact **I am a green, yellow and blue cord in capoeira and I have a dedicated video of ''Ronaldo Fenômeno''**
 
+- 🤝 I’m looking for help with **learning the guitar**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaime-andrade-de-almeida-0777ba2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaime-andrade-de-almeida-0777ba2a5" height="30" width="40" /></a>
