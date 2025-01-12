@@ -1,5 +1,6 @@
 <h1 align="center">What's up? 🙌, I'm Jaime</h1>
 <h3 align="center">An eager newcomer to the world of programming</h3>
+![IMG_3048](https://github.com/user-attachments/assets/4180f077-ac7a-4c88-a438-4d17889ce4f6)
 
 - 🎓 First year **software engineering student** at **INTELI**
 
@@ -15,7 +16,8 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaime-andrade-de-almeida-0777ba2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaime-andrade-de-almeida-0777ba2a5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaime-andrade-de-almeida-0777ba2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv![IMG_3048](https://github.com/user-attachments/assets/739ffdeb-8377-46b3-9d46-885d2e141b30)
+g" alt="jaime-andrade-de-almeida-0777ba2a5" height="30" width="40" /></a>
 <a href="https://instagram.com/jaime.almeidaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime.almeidaa" height="30" width="40" /></a>
 </p>
 
