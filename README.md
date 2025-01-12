@@ -1,7 +1,15 @@
+<p align="center">
+  <img width="800" height="400" src="https://github.com/user-attachments/assets/b1611930-7e28-4f85-926b-041a96b5b9fc">
+</p>
 
 
-<h1 align="center">What's up? 🙌, I'm Jaime</h1>
-<h3 align="center">An eager newcomer to the world of programming</h3>
+
+<h1 align="center">An eager newcomer to the world of programming</h1>
+
+
+<h3 align="center">About me</h3>
+I'm an 18 y/o brazilian who lives in São Paulo, SP. I was blessed with opportunities to grow myself academically in, firstly, the "Teddy Bear" and "Builders Educação Bilíngue" schools, where, together with my basic lessons, I was shown the perspective of english speaking and was able to initially grasp part of its possibilities, all in a very united environment. From there I moved to "Dante Colégio Alighieri", the place I recently graduated in that, aside from building up on my previous knowledge with their "Middle-High School" and electives programs, taught me a lot about my position in society and set me to evolve as an active leader in dealing with its overwhelming issues. This path, now being nurtured by INTELI as the college where I will develop myself as a Software Engineer, leads me continuously closer to my dream of being part of the technological movement, having in mind that, since young, I've always been fascinated by the progress it brought to our society, and really wanted to contribute with my own efforts for the general well-being and scientific advancement involved in it. I'm known for being a very approachable and friendly guy, always seeking for personal growth, intellectualy and physically, making friends and fun in my daily basis, so if you'd like to share anything or work together in some project I can contribute to, please reach me out! 💪
+
 
 - 🎓 First year **software engineering student** at **INTELI**
 
