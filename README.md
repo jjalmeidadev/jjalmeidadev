@@ -46,8 +46,15 @@
 <a href="https://instagram.com/jaime.almeidaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime.almeidaa" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjalmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="jjalmeidadev"/> </p>
+<h3 align="center">My Buddy:</h3>
+<p align="center">
+In this moment of getting my self used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in https://github.com/RaphaelSilva09</p> 
 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjalmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="jjalmeidadev"/> </p>
+<p>
+  
 <p>&nbsp;<img width="400" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=jjalmeidadev&show_icons=true&locale=en" alt="jjalmeidadev" />
 <img width="400" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jjalmeidadev&" alt="jjalmeidadev" />
 </p>
