@@ -48,7 +48,7 @@
 
 <h3 align="center">My Buddy:</h3>
 <p align="center">
-In this moment of getting my self used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in https://github.com/RaphaelSilva09</p> 
+In this moment of getting myself used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in https://github.com/RaphaelSilva09</p> 
 
 
 
