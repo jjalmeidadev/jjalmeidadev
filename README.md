@@ -36,7 +36,7 @@
 
 - ⚡ As a fun fact I have with me **a dedicated video of "Ronaldo Fenômeno"** that I really cherish
 
-- 📄 My second and last curiosity would be about my experiences on **working on the ''We4Nós'' education program as an english teacher and participating on ''Colégio Dante Alighieri's'' 2023 innovation symposium and 2024 UN debate event as participant and staff.**
+- 📄 My second and last curiosity would be about my experiences on **working on the ''We4Nós'' educational program as an english teacher and participating on ''Colégio Dante Alighieri's'' 2023 innovation symposium and 2024 UN debate event as participant and staff.**
 
 
   
