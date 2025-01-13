@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">An eager newcomer to the world of programming whose pc is afraid off</h2>
+<h2 align="center">An eager newcomer to the world of programming whose pc is afraid of</h2>
 
 
 <h3 align="center">About me</h3>
