@@ -48,8 +48,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjalmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="jjalmeidadev"/> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jjalmeidadev&show_icons=true&locale=en" alt="jjalmeidadev" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jjalmeidadev&" alt="jjalmeidadev" />
+<p>&nbsp;<img width="400" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=jjalmeidadev&show_icons=true&locale=en" alt="jjalmeidadev" />
+<img width="400" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jjalmeidadev&" alt="jjalmeidadev" />
 </p>
 
 
