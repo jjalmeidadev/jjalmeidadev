@@ -30,11 +30,11 @@
   
 - 🏐 In an ironic way, I really enjoy playing sports such as **volleyball and soccer at times**, even though I never practiced them seriously nor was engaged with actual games and teams themselves throughout competitions. By the way, my first curiosity would be that **I am a green, yellow and blue cord in Capoeira**, something that demonstrates my passion for physical activities.
 
-- 📚 Recently I also began admiring the construction of **philosophies and mythologies**, being topics I'd really like to learn more of
+- 📚 Recently I also began admiring the construction of **philosophies and mythologies**, being topics I'd really like to learn more of.
 
-- ✏️ I have as objectives for 2025 to resume my **drawing and guitar playing** activities
+- ✏️ I have as objectives for 2025 to resume my **drawing and guitar playing** activities.
 
-- ⚡ As a fun fact I have with me **a dedicated video of "Ronaldo Fenômeno"** that I really cherish
+- ⚡ As a fun fact I have with me **a dedicated video of "Ronaldo Fenômeno"** that I really cherish.
 
 - 📄 My second and last curiosity would be about my experiences on **working on the ''We4Nós'' educational program as an english teacher and participating on ''Colégio Dante Alighieri's'' 2023 innovation symposium and 2024 UN debate event as participant and staff.**
 
@@ -48,7 +48,8 @@
 
 <h3 align="center">My Buddy:</h3>
 <p align="center">
-In this moment of getting myself used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in https://github.com/RaphaelSilva09</p> 
+In this moment of getting myself used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in:
+https://github.com/RaphaelSilva09</p> 
 
 
 
