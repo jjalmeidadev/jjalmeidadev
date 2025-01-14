@@ -28,9 +28,9 @@
 
 - 🎧 I'm very eclectic musically, in the sense that I'll always enjoy actual quality songs, with the genres I mostly listen to being **pop, rock, jazz and electronics.**
   
-- 🏐 In an ironic way, I really enjoy playing sports such as **volleyball and soccer at times**, even though I never practiced them seriously nor was engaged with actual games and teams themselves throughout competitions. By the way, my first curiosity would be that **I am a green, yellow and blue cord in Capoeira**, which demonstrates my passion for physical activities.
+- 🏐 In an ironic way, I really enjoy playing sports such as **volleyball and soccer at times**, even though I never practiced them seriously nor was engaged with actual games and teams themselves throughout competitions. By the way, my first curiosity would be that **I am a green, yellow and blue cord in Capoeira**, something that demonstrates my passion for physical activities.
 
-- 📚 Recently I also began admiring the construction of **philosophies and mythologies**, being topics I'd really like to learn more off
+- 📚 Recently I also began admiring the construction of **philosophies and mythologies**, being topics I'd really like to learn more of
 
 - ✏️ I have as objectives for 2025 to resume my **drawing and guitar playing** activities
 
