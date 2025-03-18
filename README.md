@@ -48,9 +48,6 @@
 
 <h3 align="center">My Buddy:</h3>
 <p align="center">
-In this moment of getting myself used to this new perspective of technology and education, my buddy Raphael is attentively mentoring me. Check out his profile in:
-https://github.com/RaphaelSilva09</p> 
-
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjalmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="jjalmeidadev"/> </p>
